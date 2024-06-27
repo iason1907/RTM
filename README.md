@@ -1,7 +1,7 @@
 # Robust Tracking Module
 Implementation of the Robust Tracking Module on SiamRPN
 
-![RTM Module](Assets/RTM_Module.png)
+![RTM Module](Assets/RTM_diag.png)
 
 ## Pretrained model
 
