@@ -1,0 +1,12 @@
+fire==0.6.0
+imageio==2.34.1
+matplotlib==3.7.4
+numpy
+opencv_python==4.9.0.80
+Pillow==10.3.0
+setuptools==68.2.2
+Shapely==2.0.4
+six==1.16.0
+torch
+torchvision
+wget==3.2
