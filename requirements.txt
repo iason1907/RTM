@@ -9,4 +9,5 @@ Shapely==2.0.4
 six==1.16.0
 torch
 torchvision
+tqdm
 wget==3.2
