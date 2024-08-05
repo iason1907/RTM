@@ -5,7 +5,7 @@ Implementation of the Robust Tracking Module on SiamRPN
 
 ## Pretrained model
 
-Coming soon
+[GDrive](https://drive.google.com/file/d/1TbQztkEbEp4wRAZl-z18U4lNxYn9gSp9/)
 
 ## Setup environment
 
